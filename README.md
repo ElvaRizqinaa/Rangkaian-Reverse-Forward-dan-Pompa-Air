@@ -43,4 +43,3 @@ Sistem kendali otomatis untuk mengatur pengisian tangki/tandon air secara mandir
 * **Program Studi:** Teknologi Rekayasa Otomasi
 * **Departemen:** Teknologi Industri
 * **Fakultas:** Sekolah Vokasi - Universitas Diponegoro
-   git clone [https://github.com/ElvaRizqinaa/Dasar-Mesin-Mesin-Listrik.git](https://github.com/ElvaRizqinaa/Dasar-Mesin-Mesin-Listrik.git)
